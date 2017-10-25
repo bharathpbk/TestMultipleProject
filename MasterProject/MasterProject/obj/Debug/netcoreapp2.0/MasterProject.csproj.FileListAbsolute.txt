@@ -31,3 +31,14 @@ D:\CodeITProjects\TestProject1\TestMultipleProject\MasterProject\MasterProject\o
 D:\CodeITProjects\TestProject1\TestMultipleProject\MasterProject\MasterProject\obj\Debug\netcoreapp2.0\MasterProject.AssemblyInfo.cs
 D:\CodeITProjects\TestProject1\TestMultipleProject\MasterProject\MasterProject\obj\Debug\netcoreapp2.0\MasterProject.dll
 D:\CodeITProjects\TestProject1\TestMultipleProject\MasterProject\MasterProject\obj\Debug\netcoreapp2.0\MasterProject.pdb
+D:\CodeITProjects\TestMultipleProject1\MasterProject\MasterProject\bin\Debug\netcoreapp2.0\MasterProject.deps.json
+D:\CodeITProjects\TestMultipleProject1\MasterProject\MasterProject\bin\Debug\netcoreapp2.0\MasterProject.runtimeconfig.json
+D:\CodeITProjects\TestMultipleProject1\MasterProject\MasterProject\bin\Debug\netcoreapp2.0\MasterProject.runtimeconfig.dev.json
+D:\CodeITProjects\TestMultipleProject1\MasterProject\MasterProject\bin\Debug\netcoreapp2.0\MasterProject.dll
+D:\CodeITProjects\TestMultipleProject1\MasterProject\MasterProject\bin\Debug\netcoreapp2.0\MasterProject.pdb
+D:\CodeITProjects\TestMultipleProject1\MasterProject\MasterProject\obj\Debug\netcoreapp2.0\MasterProject.csprojResolveAssemblyReference.cache
+D:\CodeITProjects\TestMultipleProject1\MasterProject\MasterProject\obj\Debug\netcoreapp2.0\MasterProject.csproj.CoreCompileInputs.cache
+D:\CodeITProjects\TestMultipleProject1\MasterProject\MasterProject\obj\Debug\netcoreapp2.0\MasterProject.AssemblyInfoInputs.cache
+D:\CodeITProjects\TestMultipleProject1\MasterProject\MasterProject\obj\Debug\netcoreapp2.0\MasterProject.AssemblyInfo.cs
+D:\CodeITProjects\TestMultipleProject1\MasterProject\MasterProject\obj\Debug\netcoreapp2.0\MasterProject.dll
+D:\CodeITProjects\TestMultipleProject1\MasterProject\MasterProject\obj\Debug\netcoreapp2.0\MasterProject.pdb
