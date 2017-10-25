@@ -1,0 +1,11 @@
+D:\CodeITProjects\TestProject1\TestMultipleProject\MasterProject\Project2\bin\Debug\netcoreapp2.0\Project2.deps.json
+D:\CodeITProjects\TestProject1\TestMultipleProject\MasterProject\Project2\bin\Debug\netcoreapp2.0\Project2.runtimeconfig.json
+D:\CodeITProjects\TestProject1\TestMultipleProject\MasterProject\Project2\bin\Debug\netcoreapp2.0\Project2.runtimeconfig.dev.json
+D:\CodeITProjects\TestProject1\TestMultipleProject\MasterProject\Project2\bin\Debug\netcoreapp2.0\Project2.dll
+D:\CodeITProjects\TestProject1\TestMultipleProject\MasterProject\Project2\bin\Debug\netcoreapp2.0\Project2.pdb
+D:\CodeITProjects\TestProject1\TestMultipleProject\MasterProject\Project2\obj\Debug\netcoreapp2.0\Project2.csprojResolveAssemblyReference.cache
+D:\CodeITProjects\TestProject1\TestMultipleProject\MasterProject\Project2\obj\Debug\netcoreapp2.0\Project2.csproj.CoreCompileInputs.cache
+D:\CodeITProjects\TestProject1\TestMultipleProject\MasterProject\Project2\obj\Debug\netcoreapp2.0\Project2.AssemblyInfoInputs.cache
+D:\CodeITProjects\TestProject1\TestMultipleProject\MasterProject\Project2\obj\Debug\netcoreapp2.0\Project2.AssemblyInfo.cs
+D:\CodeITProjects\TestProject1\TestMultipleProject\MasterProject\Project2\obj\Debug\netcoreapp2.0\Project2.dll
+D:\CodeITProjects\TestProject1\TestMultipleProject\MasterProject\Project2\obj\Debug\netcoreapp2.0\Project2.pdb
