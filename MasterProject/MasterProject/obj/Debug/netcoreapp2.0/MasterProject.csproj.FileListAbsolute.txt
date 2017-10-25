@@ -20,3 +20,14 @@ D:\CodeITProjects\TestMultipleProject\MasterProject\MasterProject\obj\Debug\netc
 D:\CodeITProjects\TestMultipleProject\MasterProject\MasterProject\obj\Debug\netcoreapp2.0\MasterProject.AssemblyInfo.cs
 D:\CodeITProjects\TestMultipleProject\MasterProject\MasterProject\obj\Debug\netcoreapp2.0\MasterProject.dll
 D:\CodeITProjects\TestMultipleProject\MasterProject\MasterProject\obj\Debug\netcoreapp2.0\MasterProject.pdb
+D:\CodeITProjects\TestProject1\TestMultipleProject\MasterProject\MasterProject\bin\Debug\netcoreapp2.0\MasterProject.deps.json
+D:\CodeITProjects\TestProject1\TestMultipleProject\MasterProject\MasterProject\bin\Debug\netcoreapp2.0\MasterProject.runtimeconfig.json
+D:\CodeITProjects\TestProject1\TestMultipleProject\MasterProject\MasterProject\bin\Debug\netcoreapp2.0\MasterProject.runtimeconfig.dev.json
+D:\CodeITProjects\TestProject1\TestMultipleProject\MasterProject\MasterProject\bin\Debug\netcoreapp2.0\MasterProject.dll
+D:\CodeITProjects\TestProject1\TestMultipleProject\MasterProject\MasterProject\bin\Debug\netcoreapp2.0\MasterProject.pdb
+D:\CodeITProjects\TestProject1\TestMultipleProject\MasterProject\MasterProject\obj\Debug\netcoreapp2.0\MasterProject.csprojResolveAssemblyReference.cache
+D:\CodeITProjects\TestProject1\TestMultipleProject\MasterProject\MasterProject\obj\Debug\netcoreapp2.0\MasterProject.csproj.CoreCompileInputs.cache
+D:\CodeITProjects\TestProject1\TestMultipleProject\MasterProject\MasterProject\obj\Debug\netcoreapp2.0\MasterProject.AssemblyInfoInputs.cache
+D:\CodeITProjects\TestProject1\TestMultipleProject\MasterProject\MasterProject\obj\Debug\netcoreapp2.0\MasterProject.AssemblyInfo.cs
+D:\CodeITProjects\TestProject1\TestMultipleProject\MasterProject\MasterProject\obj\Debug\netcoreapp2.0\MasterProject.dll
+D:\CodeITProjects\TestProject1\TestMultipleProject\MasterProject\MasterProject\obj\Debug\netcoreapp2.0\MasterProject.pdb

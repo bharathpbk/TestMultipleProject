@@ -12542,11 +12542,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\CodeITProjects\\TestMultipleProject\\MasterProject\\MasterProject\\MasterProject.csproj",
+      "projectUniqueName": "D:\\CodeITProjects\\TestProject1\\TestMultipleProject\\MasterProject\\MasterProject\\MasterProject.csproj",
       "projectName": "MasterProject",
-      "projectPath": "D:\\CodeITProjects\\TestMultipleProject\\MasterProject\\MasterProject\\MasterProject.csproj",
+      "projectPath": "D:\\CodeITProjects\\TestProject1\\TestMultipleProject\\MasterProject\\MasterProject\\MasterProject.csproj",
       "packagesPath": "C:\\Users\\bharath-pc\\.nuget\\packages\\",
-      "outputPath": "D:\\CodeITProjects\\TestMultipleProject\\MasterProject\\MasterProject\\obj\\",
+      "outputPath": "D:\\CodeITProjects\\TestProject1\\TestMultipleProject\\MasterProject\\MasterProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
