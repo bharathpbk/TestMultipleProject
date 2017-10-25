@@ -1,7 +1,6 @@
 D:\CodeITProjects\TestMultipleProject\MasterProject\Project_1\bin\Debug\netstandard2.0\Project_1.deps.json
 D:\CodeITProjects\TestMultipleProject\MasterProject\Project_1\bin\Debug\netstandard2.0\Project_1.dll
 D:\CodeITProjects\TestMultipleProject\MasterProject\Project_1\bin\Debug\netstandard2.0\Project_1.pdb
-D:\CodeITProjects\TestMultipleProject\MasterProject\Project_1\obj\Debug\netstandard2.0\Project_1.csprojResolveAssemblyReference.cache
 D:\CodeITProjects\TestMultipleProject\MasterProject\Project_1\obj\Debug\netstandard2.0\Project_1.csproj.CoreCompileInputs.cache
 D:\CodeITProjects\TestMultipleProject\MasterProject\Project_1\obj\Debug\netstandard2.0\Project_1.AssemblyInfoInputs.cache
 D:\CodeITProjects\TestMultipleProject\MasterProject\Project_1\obj\Debug\netstandard2.0\Project_1.AssemblyInfo.cs

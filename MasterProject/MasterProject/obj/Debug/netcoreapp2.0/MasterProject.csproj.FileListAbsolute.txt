@@ -19,3 +19,4 @@ D:\CodeITProjects\TestMultipleProject\MasterProject\MasterProject\obj\Debug\netc
 D:\CodeITProjects\TestMultipleProject\MasterProject\MasterProject\obj\Debug\netcoreapp2.0\MasterProject.AssemblyInfo.cs
 D:\CodeITProjects\TestMultipleProject\MasterProject\MasterProject\obj\Debug\netcoreapp2.0\MasterProject.dll
 D:\CodeITProjects\TestMultipleProject\MasterProject\MasterProject\obj\Debug\netcoreapp2.0\MasterProject.pdb
+D:\CodeITProjects\TestMultipleProject\MasterProject\MasterProject\obj\Debug\netcoreapp2.0\MasterProject.csprojResolveAssemblyReference.cache
